@@ -93,8 +93,8 @@
 
 ## 反馈与支持
 
-- Telegram 频道: [@FkWeChat ](https://t.me/FkWeChat)
-- Telegram 群组: [@FkWeChat Chat](https://t.me/+rer9nCO1RChjYzA1)
+- Telegram 频道: [FkWeChat](https://t.me/FkWeChat)
+- Telegram 群组: [FkWeChat Chat](https://t.me/+rer9nCO1RChjYzA1)
 
 ---
 
