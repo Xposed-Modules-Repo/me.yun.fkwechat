@@ -6,6 +6,9 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/+rer9nCO1RChjYzA1)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.yun.fkwechat)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/releases)
 [![Xposed](https://img.shields.io/badge/Xposed-LSPosed-blue)](https://github.com/LSPosed/LSPosed)
+[![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.yun.fkwechat?style=social)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Xposed-Modules-Repo/me.yun.fkwechat?style=social)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/network/members)
+[![GitHub download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.yun.fkwechat/total?label=下载量)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/releases)
 </div>
 
 ---
@@ -37,9 +40,9 @@
 | 自定义气泡 | 自定义聊天消息气泡样式 |
 | 显示消息时间 | 头像旁显示发送时间 |
 | 显示实名尾字 | 群聊中显示实名尾字 |
-| 隐藏群头衔 | 隐藏群聊头衔 (开发中) |
 | 隐藏自己头像 | 隐藏自己的头像 (开发中) |
 | 隐藏好友头像 | 隐藏好友的头像 (开发中) |
+| 显示群头衔 | 群聊中显示群主/管理员头衔  (开发中) |
 
 ### 增强扩展
 
