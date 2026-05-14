@@ -6,8 +6,7 @@
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/+rer9nCO1RChjYzA1)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.yun.fkwechat)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/releases)
 [![Xposed](https://img.shields.io/badge/Xposed-LSPosed-blue)](https://github.com/LSPosed/LSPosed)
-[![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.yun.fkwechat?style=social)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Xposed-Modules-Repo/me.yun.fkwechat?style=social)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.yun.fkwechat?label=Stars)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/stargazers)
 [![GitHub download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.yun.fkwechat/total?label=下载量)](https://github.com/Xposed-Modules-Repo/me.yun.fkwechat/releases)
 </div>
 
@@ -98,11 +97,3 @@
 
 - Telegram 频道: [FkWeChat](https://t.me/FkWeChat)
 - Telegram 群组: [FkWeChat Chat](https://t.me/+rer9nCO1RChjYzA1)
-
----
-
-<div align="center">
-
-Star 支持一下
-
-</div>
